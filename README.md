@@ -1,4 +1,4 @@
-# Irishman Analyze's Javascript SDK
+# ![Irishman Analyze's Javascript SDK](https://raw.githubusercontent.com/irishman-cloud/analyze-javascript/master/.github/banner.svg)
 
 Get valuable insights from your code.
 
