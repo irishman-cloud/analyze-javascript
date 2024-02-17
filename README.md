@@ -1,6 +1,9 @@
 # ![Irishman Analyze's JavaScript SDK](https://raw.githubusercontent.com/irishman-cloud/analyze-javascript/master/.github/banner.svg)
 
-Get valuable insights from your code.
+[![MIT License](https://img.shields.io/github/license/irishman-cloud/analyze-javascript)](https://github.com/irishman-cloud/analyze-javascript)
+[![Issue Count](https://img.shields.io/gitea/issues/open/irishman-cloud/analyze-javascript)](https://github.com/irishman-cloud/analyze-javascript/issues)
+
+<b align="center">Get valuable insights from your code.</b>
 
 ## Table of Contents
 
